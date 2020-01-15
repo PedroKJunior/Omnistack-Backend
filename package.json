@@ -1,0 +1,19 @@
+{
+  "name": "Omnistack-Backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PedroKJunior/Omnistack-Backend.git",
+  "author": "Pedro Kretikouski Roque Junior <pedro.junior@ringa.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon bin/dev.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.7"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.2"
+  }
+}
